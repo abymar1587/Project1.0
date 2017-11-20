@@ -1,1 +1,1 @@
-"# Project1.0 This is my very first repo" 
+"# Project1.0 This is my very first repository" 
